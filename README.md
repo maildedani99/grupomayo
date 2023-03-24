@@ -6,15 +6,15 @@ Clonar el repositorio en carpeta local
 
 Acceder al directorio
 
-# cd grupomayo
+### cd grupomayo
 
 Instalar dependencias
 
-# npm install
+### npm install
 
 Ejecutar la aplicación
 
-# npm start
+### npm start
 
 
 
