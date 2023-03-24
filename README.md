@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Instrucciones para ejecutar la aplicación en entorno local
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clonar el repositorio en carpeta local
+
+## git clone https://github.com/maildedani99/grupomayo.git
+
+Acceder al directorio
+
+##cd grupomayo
+
+Instalar dependencias
+
+## npm install
+
+Ejecutar la aplicación
+
+## npm start
+
+
+
+
 
 ## Available Scripts
 
