@@ -2,19 +2,19 @@
 
 Clonar el repositorio en carpeta local
 
- git clone https://github.com/maildedani99/grupomayo.git
+ # git clone https://github.com/maildedani99/grupomayo.git
 
 Acceder al directorio
 
-cd grupomayo
+# cd grupomayo
 
 Instalar dependencias
 
-npm install
+# npm install
 
 Ejecutar la aplicación
 
-npm start
+# npm start
 
 
 
